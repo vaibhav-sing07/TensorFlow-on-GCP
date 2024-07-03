@@ -6,3 +6,4 @@ The tutorial achieves an accuracy of about 87% on the IMDB movie review dataset.
 2)Tf.Records
 3)Tf Feature API
 3)Tf Data
+4)
